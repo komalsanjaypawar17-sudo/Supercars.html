@@ -1,0 +1,1225 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 290" width="820" height="290">
+    <defs>
+        <clipPath id="bd">
+            <path
+                d="M50 238 L50 200 C54 186 80 178 120 172 L172 160 C225 152 290 132 350 124 C395 118 440 120 480 132 C515 142 545 160 572 172 C595 168 655 168 692 178 C745 190 772 208 774 232 L774 240 Z" />
+        </clipPath>
+        <linearGradient id="b" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0" stop-color="#e0252f" />
+            <stop offset="1" stop-color="#7a0f16" />
+        </linearGradient>
+        <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0" stop-color="#a9cdef" />
+            <stop offset=".55" stop-color="#2b4764" />
+            <stop offset="1" stop-color="#0d1a2a" />
+        </linearGradient>
+        <radialGradient id="r" cx=".5" cy=".5" r=".5">
+            <stop offset="0" stop-color="#f6f8fa" />
+            <stop offset="1" stop-color="#8793a2" />
+        </radialGradient>
+        <radialGradient id="h" cx=".5" cy=".5" r=".5">
+            <stop offset="0" stop-color="#fff1c4" stop-opacity=".9" />
+            <stop offset="1" stop-color="#fff1c4" stop-opacity="0" />
+        </radialGradient>
+    </defs>
+    <ellipse cx="412" cy="263" rx="372" ry="12" fill="#000" opacity=".4" />
+    <ellipse cx="772" cy="206" rx="46" ry="26" fill="url(#h)" />
+    <path d="M54 192 L48 174 L118 164 L122 172 L70 188 Z" fill="#7a0f16" />
+    <path
+        d="M50 238 L50 200 C54 186 80 178 120 172 L172 160 C225 152 290 132 350 124 C395 118 440 120 480 132 C515 142 545 160 572 172 C595 168 655 168 692 178 C745 190 772 208 774 232 L774 240 Z"
+        fill="url(#b)" />
+    <path d="M258 166 C292 144 336 132 380 131 C428 131 466 141 498 156 L538 173 L254 170 Z" fill="url(#g)" />
+    <path d="M404 132 L408 172" stroke="#7a0f16" stroke-width="5" />
+    <path d="M300 130 C350 118 430 118 478 134" stroke="#fff" stroke-opacity=".45" stroke-width="3" fill="none"
+        stroke-linecap="round" />
+    <path d="M70 196 C300 186 520 186 760 214" stroke="#fff" stroke-opacity=".3" stroke-width="2" fill="none" />
+    <path d="M304 192 C336 186 366 194 380 218 L332 220 C318 212 308 204 304 192 Z" fill="#0b1522" opacity=".85" />
+    <path d="M446 178 L442 232" stroke="#000" stroke-opacity=".3" stroke-width="2" fill="none" />
+    <rect x="462" y="184" width="30" height="5" rx="2.5" fill="#000" fill-opacity=".35" />
+    <path d="M118 238 L704 238" stroke="#0b1522" stroke-width="5" stroke-linecap="round" />
+    <path d="M706 194 L762 208 L746 216 L700 204 Z" fill="#fff1c4" />
+    <path d="M52 198 L92 192 L92 203 L52 209 Z" fill="#ff3b3b" />
+    <path d="M536 178 C548 174 562 178 566 184 C554 186 544 185 536 178 Z" fill="#7a0f16" />
+    <g clip-path="url(#bd)">
+        <circle cx="195" cy="216" r="56" fill="#0a1626" />
+        <circle cx="625" cy="216" r="56" fill="#0a1626" />
+    </g>
+    <circle cx="195" cy="216" r="46" fill="#0c0e12" />
+    <circle cx="625" cy="216" r="46" fill="#0c0e12" />
+    <circle cx="195" cy="216" r="34" fill="url(#r)" />
+    <circle cx="625" cy="216" r="34" fill="url(#r)" />
+    <g stroke="#56606d" stroke-width="7" stroke-linecap="round">
+        <line x1="195" y1="216" x2="195" y2="187" />
+        <line x1="195" y1="216" x2="222.6" y2="207" />
+        <line x1="195" y1="216" x2="212" y2="239.5" />
+        <line x1="195" y1="216" x2="178" y2="239.5" />
+        <line x1="195" y1="216" x2="167.4" y2="207" />
+        <line x1="625" y1="216" x2="625" y2="187" />
+        <line x1="625" y1="216" x2="652.6" y2="207" />
+        <line x1="625" y1="216" x2="642" y2="239.5" />
+        <line x1="625" y1="216" x2="608" y2="239.5" />
+        <line x1="625" y1="216" x2="597.4" y2="207" />
+    </g>
+    <circle cx="195" cy="216" r="9" fill="#2b323b" />
+    <circle cx="625" cy="216" r="9" fill="#2b323b" />
+</svg>
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apex Garage | The World of High-End Cars</title>
+    <meta name="description"
+        content="A curated HTML5 showcase of the world's most desirable high-end cars: brands, engineering, performance figures and a private viewing request form.">
+    <meta name="theme-color" content="#0c1a2b">
+    <link rel="icon" href="https://kdenterprisesgroup.com/wp-content/uploads/2025/12/wVS7K4GCij4-HD-e1766491224829.webp" type="image/webp">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700;800;900&family=Newsreader:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+
+    <style>
+        :root {
+            --midnight: #0c1a2b;
+            --steel: #16283d;
+            --pearl: #ecebe6;
+            --paper: #f7f6f2;
+            --bronze: #8f4f1f;
+            --bronze-bright: #e0a064;
+            --signal: #d62f37;
+            --ink: #14212f;
+            --muted: #55626f;
+            --line: #d6d4cc;
+            --display: "Archivo", "Arial Narrow", "Helvetica Neue", Arial, sans-serif;
+            --text: "Newsreader", Georgia, "Times New Roman", serif;
+            --wrap: 1120px;
+        }
+
+        *,
+        *::before,
+        *::after {
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+            scroll-padding-top: 76px;
+        }
+
+        body {
+            margin: 0;
+            font-family: var(--text);
+            font-size: 1.15rem;
+            line-height: 1.65;
+            color: var(--ink);
+            background: var(--paper);
+            -webkit-font-smoothing: antialiased;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+        }
+
+        a {
+            color: var(--bronze);
+            text-underline-offset: 3px;
+        }
+
+        a:hover {
+            color: var(--signal);
+        }
+
+        :focus-visible {
+            outline: 3px solid var(--bronze-bright);
+            outline-offset: 3px;
+            border-radius: 2px;
+        }
+
+        h1,
+        h2,
+        h3 {
+            font-family: var(--display);
+            font-stretch: 112%;
+            font-weight: 800;
+            line-height: 1.05;
+            letter-spacing: -0.015em;
+            margin: 0 0 0.6em;
+        }
+
+        h2 {
+            font-size: clamp(1.9rem, 4.2vw, 3rem);
+        }
+
+        h3 {
+            font-size: 1.25rem;
+            font-stretch: 100%;
+            letter-spacing: 0;
+        }
+
+        p {
+            margin: 0 0 1.1em;
+            max-width: 68ch;
+        }
+
+        .wrap {
+            width: min(var(--wrap), 100% - 2.5rem);
+            margin-inline: auto;
+        }
+
+        .skip {
+            position: absolute;
+            left: -999px;
+            top: 8px;
+            z-index: 100;
+            background: var(--bronze-bright);
+            color: var(--midnight);
+            padding: 0.6rem 1rem;
+            font-family: var(--display);
+            font-weight: 700;
+        }
+
+        .skip:focus {
+            left: 8px;
+        }
+
+        /* ---------- Header / navigation ---------- */
+        .site-header {
+            position: sticky;
+            top: 0;
+            z-index: 50;
+            background: rgba(12, 26, 43, 0.92);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+        }
+
+        .bar {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 1rem;
+            min-height: 64px;
+            flex-wrap: wrap;
+            padding-block: 0.4rem;
+        }
+
+        .brand {
+            font-family: var(--display);
+            font-stretch: 125%;
+            font-weight: 900;
+            color: var(--pearl);
+            text-decoration: none;
+            font-size: 1.15rem;
+            letter-spacing: 0.01em;
+        }
+
+        .brand span {
+            color: var(--bronze-bright);
+        }
+
+        .site-nav ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            gap: 0.2rem 1.3rem;
+            flex-wrap: wrap;
+        }
+
+        .site-nav a {
+            font-family: var(--display);
+            font-weight: 600;
+            font-size: 0.95rem;
+            color: #c9d3de;
+            text-decoration: none;
+            padding: 0.3rem 0;
+            border-bottom: 2px solid transparent;
+        }
+
+        .site-nav a:hover {
+            color: #fff;
+            border-bottom-color: var(--bronze-bright);
+        }
+
+        /* ---------- Hero ---------- */
+        .hero {
+            background:
+                radial-gradient(900px 420px at 78% 62%, rgba(224, 160, 100, 0.20), transparent 70%),
+                linear-gradient(180deg, var(--midnight) 0%, #11243a 70%, #16304b 100%);
+            color: var(--pearl);
+            padding: clamp(2rem, 5vw, 3.5rem) 0 0;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .hero h1 {
+            font-size: clamp(2.5rem, 7vw, 5.4rem);
+            font-stretch: 125%;
+            font-weight: 900;
+            line-height: 0.98;
+            margin-bottom: 0.35em;
+            max-width: 13ch;
+        }
+
+        .hero-intro {
+            font-size: clamp(1.15rem, 2.2vw, 1.4rem);
+            color: #c3cfdb;
+            max-width: 60ch;
+        }
+
+        .actions {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.9rem;
+            margin: 1.4rem 0 0;
+        }
+
+        .btn {
+            display: inline-block;
+            font-family: var(--display);
+            font-weight: 700;
+            font-size: 1rem;
+            padding: 0.85rem 1.5rem;
+            border-radius: 3px;
+            text-decoration: none;
+            cursor: pointer;
+            border: 2px solid var(--bronze-bright);
+            transition: background 0.2s, color 0.2s;
+        }
+
+        .btn-solid {
+            background: var(--bronze-bright);
+            color: var(--midnight);
+        }
+
+        .btn-solid:hover {
+            background: #f0b87d;
+            color: var(--midnight);
+        }
+
+        .btn-line {
+            background: transparent;
+            color: var(--pearl);
+            border-color: rgba(255, 255, 255, 0.35);
+        }
+
+        .btn-line:hover {
+            color: #fff;
+            border-color: #fff;
+        }
+
+        .stage {
+            position: relative;
+            margin: clamp(0.5rem, 2vw, 1.2rem) 0 0;
+        }
+
+        .stage::after {
+            content: "";
+            position: absolute;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            height: 3px;
+            background: linear-gradient(90deg, transparent, var(--bronze-bright) 20%, var(--bronze-bright) 80%, transparent);
+            opacity: 0.8;
+        }
+
+        .hero-car {
+            width: min(860px, 100%);
+            margin: 0 0 -6px auto;
+            filter: drop-shadow(0 24px 30px rgba(0, 0, 0, 0.45));
+            animation: arrive 1.5s cubic-bezier(0.16, 0.84, 0.24, 1) both;
+        }
+
+        .stage figcaption {
+            position: absolute;
+            left: 0;
+            bottom: 18px;
+            max-width: 30ch;
+            font-family: var(--display);
+            font-size: 0.85rem;
+            color: #9fb0c2;
+            line-height: 1.4;
+        }
+
+        @keyframes arrive {
+            from {
+                transform: translateX(-60%);
+                opacity: 0;
+            }
+
+            60% {
+                opacity: 1;
+            }
+
+            to {
+                transform: translateX(0);
+                opacity: 1;
+            }
+        }
+
+        /* ---------- Sections ---------- */
+        .section {
+            padding: clamp(3.5rem, 8vw, 6rem) 0;
+        }
+
+        .section-alt {
+            background: var(--pearl);
+        }
+
+        .section-dark {
+            background: var(--midnight);
+            color: var(--pearl);
+        }
+
+        .section-dark a {
+            color: var(--bronze-bright);
+        }
+
+        .lead {
+            font-size: 1.3rem;
+            color: var(--muted);
+        }
+
+        .section-dark .lead {
+            color: #b6c3d1;
+        }
+
+        .split {
+            display: grid;
+            grid-template-columns: 1.25fr 1fr;
+            gap: clamp(2rem, 5vw, 4rem);
+            align-items: start;
+        }
+
+        .note {
+            border-left: 4px solid var(--bronze);
+            background: #fff;
+            padding: 1.2rem 1.4rem;
+            box-shadow: 0 1px 0 var(--line);
+        }
+
+        .note h3 {
+            margin-bottom: 0.4em;
+        }
+
+        .note p {
+            margin-bottom: 0;
+            font-size: 1.05rem;
+        }
+
+        /* Brands list */
+        .brand-list {
+            list-style: none;
+            padding: 0;
+            margin: 2rem 0 0;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+            gap: 0;
+            border-top: 1px solid rgba(255, 255, 255, 0.18);
+        }
+
+        .brand-list li {
+            padding: 1.2rem 1rem 1.2rem 0;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.18);
+        }
+
+        .brand-list strong {
+            display: block;
+            font-family: var(--display);
+            font-stretch: 112%;
+            font-weight: 800;
+            font-size: 1.35rem;
+            color: #fff;
+        }
+
+        .brand-list span {
+            color: #a8b8c9;
+            font-size: 1rem;
+        }
+
+        /* Process list */
+        .steps {
+            counter-reset: step;
+            list-style: none;
+            padding: 0;
+            margin: 2rem 0 0;
+            display: grid;
+            gap: 1rem;
+        }
+
+        .steps li {
+            counter-increment: step;
+            position: relative;
+            padding: 1.1rem 1.2rem 1.1rem 4.4rem;
+            background: #fff;
+            border: 1px solid var(--line);
+        }
+
+        .steps li::before {
+            content: counter(step);
+            position: absolute;
+            left: 1.1rem;
+            top: 0.9rem;
+            font-family: var(--display);
+            font-stretch: 125%;
+            font-weight: 900;
+            font-size: 1.9rem;
+            color: var(--bronze);
+        }
+
+        .steps b {
+            font-family: var(--display);
+            font-weight: 700;
+            display: block;
+        }
+
+        /* Gallery */
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin-top: 2.2rem;
+        }
+
+        .card {
+            background: var(--steel);
+            color: var(--pearl);
+            display: flex;
+            flex-direction: column;
+        }
+
+        .card figure {
+            margin: 0;
+            background: linear-gradient(180deg, #1b3350, #12263c);
+            padding: 1.4rem 1rem 0.4rem;
+        }
+
+        .card figcaption {
+            font-family: var(--display);
+            font-size: 0.8rem;
+            color: #8fa3b8;
+            padding: 0.4rem 0 0.7rem;
+        }
+
+        .card-body {
+            padding: 1.2rem 1.3rem 1.5rem;
+        }
+
+        .card h3 {
+            color: #fff;
+        }
+
+        .card p {
+            font-size: 1.02rem;
+            color: #c3cfdb;
+            margin-bottom: 0;
+        }
+
+        /* One SVG, four colours */
+        .tint-gold {
+            filter: hue-rotate(50deg) saturate(1.2);
+        }
+
+        .tint-blue {
+            filter: hue-rotate(215deg);
+        }
+
+        .tint-silver {
+            filter: grayscale(1) brightness(1.35);
+        }
+
+        /* Table */
+        .table-scroll {
+            overflow-x: auto;
+            margin-top: 2rem;
+            border: 1px solid var(--line);
+            background: #fff;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            min-width: 720px;
+            font-size: 1.02rem;
+        }
+
+        caption {
+            text-align: left;
+            padding: 1rem 1.1rem;
+            font-family: var(--display);
+            font-weight: 700;
+            background: var(--midnight);
+            color: var(--pearl);
+        }
+
+        th,
+        td {
+            padding: 0.85rem 1.1rem;
+            text-align: left;
+            border-bottom: 1px solid var(--line);
+        }
+
+        thead th {
+            font-family: var(--display);
+            font-weight: 700;
+            font-size: 0.95rem;
+            background: #e3e1d9;
+        }
+
+        tbody th {
+            font-family: var(--display);
+            font-weight: 700;
+        }
+
+        tbody tr:nth-child(even) {
+            background: #faf9f6;
+        }
+
+        tbody tr:hover {
+            background: #f3eadf;
+        }
+
+        td.num {
+            font-variant-numeric: tabular-nums;
+        }
+
+        tfoot td {
+            font-size: 0.92rem;
+            color: var(--muted);
+            border-bottom: 0;
+        }
+
+        /* FAQ */
+        details {
+            border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+            padding: 1.1rem 0;
+            max-width: 780px;
+        }
+
+        details:first-of-type {
+            border-top: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        summary {
+            cursor: pointer;
+            font-family: var(--display);
+            font-weight: 700;
+            font-size: 1.15rem;
+            list-style: none;
+            display: flex;
+            justify-content: space-between;
+            gap: 1rem;
+        }
+
+        summary::-webkit-details-marker {
+            display: none;
+        }
+
+        summary::after {
+            content: "+";
+            color: var(--bronze-bright);
+            font-size: 1.5rem;
+            line-height: 1;
+        }
+
+        details[open] summary::after {
+            content: "\2212";
+        }
+
+        details p {
+            margin: 0.8rem 0 0;
+            color: #b6c3d1;
+        }
+
+        /* Form */
+        .form-card {
+            background: #fff;
+            border: 1px solid var(--line);
+            padding: clamp(1.4rem, 4vw, 2.4rem);
+            box-shadow: 0 1px 0 var(--line);
+        }
+
+        fieldset {
+            border: 0;
+            margin: 0 0 1.4rem;
+            padding: 0;
+        }
+
+        legend {
+            font-family: var(--display);
+            font-weight: 800;
+            font-size: 1.15rem;
+            padding: 0;
+            margin-bottom: 0.9rem;
+        }
+
+        .row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1rem 1.2rem;
+        }
+
+        .field {
+            display: flex;
+            flex-direction: column;
+            gap: 0.35rem;
+            margin-bottom: 1rem;
+        }
+
+        .field label,
+        .group-label {
+            font-family: var(--display);
+            font-weight: 600;
+            font-size: 0.95rem;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="tel"],
+        input[type="date"],
+        select,
+        textarea {
+            font: inherit;
+            font-size: 1.05rem;
+            padding: 0.7rem 0.8rem;
+            width: 100%;
+            border: 1.5px solid #b9b7ae;
+            border-radius: 3px;
+            background: var(--paper);
+            color: var(--ink);
+        }
+
+        input:focus,
+        select:focus,
+        textarea:focus {
+            border-color: var(--bronze);
+            outline: 3px solid rgba(224, 160, 100, 0.5);
+            outline-offset: 0;
+        }
+
+        textarea {
+            resize: vertical;
+            min-height: 110px;
+        }
+
+        .choices {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.6rem 1.6rem;
+        }
+
+        .choices label,
+        .consent {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-size: 1.05rem;
+        }
+
+        input[type="radio"],
+        input[type="checkbox"] {
+            width: 1.15rem;
+            height: 1.15rem;
+            accent-color: var(--bronze);
+        }
+
+        .consent {
+            margin: 0.4rem 0 1.4rem;
+            align-items: flex-start;
+        }
+
+        .consent input {
+            margin-top: 0.35rem;
+            flex: none;
+        }
+
+        .form-actions {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.8rem;
+        }
+
+        .form-actions .btn-solid {
+            background: var(--bronze);
+            border-color: var(--bronze);
+            color: #fff;
+        }
+
+        .form-actions .btn-solid:hover {
+            background: var(--midnight);
+            border-color: var(--midnight);
+        }
+
+        .form-actions .btn-line {
+            color: var(--ink);
+            border-color: #b9b7ae;
+            background: transparent;
+        }
+
+        .form-actions .btn-line:hover {
+            border-color: var(--ink);
+            color: var(--ink);
+        }
+
+        .hint {
+            font-size: 0.95rem;
+            color: var(--muted);
+            margin: 0.2rem 0 0;
+        }
+
+        /* Footer */
+        .site-footer {
+            background: #08121e;
+            color: #9fb0c2;
+            padding: 2.5rem 0;
+            font-size: 1rem;
+        }
+
+        .site-footer .wrap {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            gap: 1.2rem;
+        }
+
+        .site-footer p {
+            margin: 0;
+            max-width: 60ch;
+        }
+
+        .site-footer a {
+            color: var(--bronze-bright);
+        }
+
+        /* ---------- Responsive ---------- */
+        @media (max-width: 860px) {
+            .split {
+                grid-template-columns: 1fr;
+            }
+
+            .row {
+                grid-template-columns: 1fr;
+            }
+
+            .stage figcaption {
+                position: static;
+                padding: 0 0 1rem;
+                max-width: none;
+            }
+
+            .hero-car {
+                margin-inline: auto;
+            }
+        }
+
+        @media (max-width: 520px) {
+            body {
+                font-size: 1.08rem;
+            }
+
+            .bar {
+                justify-content: center;
+            }
+
+            .site-nav ul {
+                justify-content: center;
+            }
+
+            .steps li {
+                padding-left: 3.6rem;
+            }
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+            html {
+                scroll-behavior: auto;
+            }
+
+            .hero-car {
+                animation: none;
+            }
+
+            .btn {
+                transition: none;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <a class="skip" href="#main">Skip to main content</a>
+
+    <header class="site-header">
+        <div class="wrap bar">
+            <a class="brand" href="#home">APEX<span>GARAGE</span></a>
+            <nav class="site-nav" aria-label="Primary">
+                <ul>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#brands">Marques</a></li>
+                    <li><a href="#process">Engineering</a></li>
+                    <li><a href="#gallery">Classes</a></li>
+                    <li><a href="#specs">Specs</a></li>
+                    <li><a href="#faq">FAQ</a></li>
+                    <li><a href="#visit">Book a visit</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main id="main">
+
+        <!-- HERO -->
+        <section class="hero" id="home" aria-labelledby="hero-title">
+            <div class="wrap">
+                <h1 id="hero-title">Machines built to be wanted.</h1>
+                <p class="hero-intro">A guided tour of the world's most desirable cars: the marques behind them, the
+                    engineering inside them, and the numbers that make them legendary.</p>
+                <p class="actions">
+                    <a class="btn btn-solid" href="#specs">Compare performance</a>
+                    <a class="btn btn-line" href="#visit">Request a private viewing</a>
+                </p>
+                <figure class="stage">
+                    <img class="hero-car" src="images/car.svg" width="820" height="290"
+                        alt="Side-view illustration of a low, red mid-engine supercar with a rear wing, parked on a bronze horizon line.">
+                    <figcaption>Illustration drawn for this page. Colours and proportions are stylised.</figcaption>
+                </figure>
+            </div>
+        </section>
+
+        <!-- ABOUT -->
+        <section class="section" id="about" aria-labelledby="about-title">
+            <div class="wrap split">
+                <div>
+                    <h2 id="about-title">Why high-end cars still matter</h2>
+                    <p class="lead">A high-end car is more than a way to get somewhere. It is a rolling argument about
+                        what engineering, craft and design can achieve when cost is not the first question.</p>
+                    <p>The category covers a wide range. <strong>Supercars</strong> chase speed and handling with
+                        mid-mounted engines and lightweight carbon structures. <strong>Grand tourers</strong> trade a
+                        little sharpness for comfort over long distances. <strong>Hypercars</strong> sit at the very
+                        top, with limited production and technology that often reaches road cars a decade later.</p>
+                    <p>Today the story is changing. Hybrid and fully electric drivetrains now deliver acceleration that
+                        combustion engines took decades to reach, while the best brands work to keep the sound, feel and
+                        sense of occasion that buyers expect.</p>
+                </div>
+                <aside class="note" aria-label="Quick definition">
+                    <h3>In short</h3>
+                    <p>A supercar is generally a low, two-seat performance car with a powerful engine and track-ready
+                        handling. A hypercar sits above it in power, price and rarity. Read more on <a
+                            href="https://en.wikipedia.org/wiki/Supercar" target="_blank"
+                            rel="noopener noreferrer">Wikipedia's Supercar article</a>.</p>
+                </aside>
+            </div>
+        </section>
+
+        <!-- BRANDS (unordered list) -->
+        <section class="section section-dark" id="brands" aria-labelledby="brands-title">
+            <div class="wrap">
+                <h2 id="brands-title">Seven marques that define the top end</h2>
+                <p class="lead">Each one built its name on a different idea of what a great car should be.</p>
+                <ul class="brand-list">
+                    <li><strong>Ferrari</strong><span>Italy, founded 1947. Racing-bred V8 and V12 cars.</span></li>
+                    <li><strong>Lamborghini</strong><span>Italy, founded 1963. Dramatic design and V12 power.</span>
+                    </li>
+                    <li><strong>Porsche</strong><span>Germany, founded 1931. Everyday-usable precision.</span></li>
+                    <li><strong>Bugatti</strong><span>France, founded 1909. Record-setting hypercars.</span></li>
+                    <li><strong>McLaren</strong><span>United Kingdom, founded 1963. Carbon-fibre road racers.</span>
+                    </li>
+                    <li><strong>Rolls-Royce</strong><span>United Kingdom, founded 1906. The benchmark in luxury.</span>
+                    </li>
+                    <li><strong>Aston Martin</strong><span>United Kingdom, founded 1913. Elegant grand tourers.</span>
+                    </li>
+                </ul>
+                <p style="margin-top:1.8rem">Explore the official sites of <a href="https://www.ferrari.com"
+                        target="_blank" rel="noopener noreferrer">Ferrari</a> and <a href="https://www.lamborghini.com"
+                        target="_blank" rel="noopener noreferrer">Lamborghini</a> to see current models.</p>
+            </div>
+        </section>
+
+        <!-- PROCESS (ordered list) -->
+        <section class="section section-alt" id="process" aria-labelledby="process-title">
+            <div class="wrap split">
+                <div>
+                    <h2 id="process-title">From sketch to showroom</h2>
+                    <p class="lead">Every great car follows a similar path, and each stage can take months.</p>
+                    <ol class="steps">
+                        <li><b>Design and clay modelling</b>Sketches become full-size clay forms, refined by hand until
+                            the proportions feel right.</li>
+                        <li><b>Aerodynamic testing</b>Wind tunnels and simulation shape the body so the car stays stable
+                            and efficient at speed.</li>
+                        <li><b>Chassis and powertrain</b>A carbon-fibre or aluminium structure is paired with a petrol,
+                            hybrid or electric drivetrain.</li>
+                        <li><b>Hand assembly</b>Skilled technicians fit the interior, paint the body in many coats and
+                            inspect every joint.</li>
+                        <li><b>Road and track validation</b>Prototypes face extreme heat, cold and lap after lap before
+                            any customer sees the car.</li>
+                    </ol>
+                </div>
+                <aside class="note" aria-label="Did you know">
+                    <h3>Did you know?</h3>
+                    <p>Many high-end cars use carbon fibre for the passenger cell because it is far lighter than steel
+                        yet extremely rigid. That is why a car with over 700 horsepower can still feel nimble.</p>
+                </aside>
+            </div>
+        </section>
+
+        <!-- GALLERY -->
+        <section class="section" id="gallery" aria-labelledby="gallery-title">
+            <div class="wrap">
+                <h2 id="gallery-title">Four classes, four personalities</h2>
+                <p class="lead">Pick the class that matches how you want a car to make you feel.</p>
+                <div class="grid">
+                    <article class="card">
+                        <figure>
+                            <img src="https://static.vecteezy.com/system/resources/previews/059/664/794/large_2x/red-supercar-side-view-illustration-vector.jpg" width="820" height="290" loading="lazy"
+                                alt="Illustration of a red mid-engine supercar in side view.">
+                            <figcaption>Illustration: mid-engine supercar</figcaption>
+                        </figure>
+                        <div class="card-body">
+                            <h3>Mid-engine supercars</h3>
+                            <p>The engine sits behind the driver for balance and sharp turn-in. Think of the Ferrari
+                                SF90 Stradale or McLaren 750S.</p>
+                        </div>
+                    </article>
+                    <article class="card">
+                        <figure>
+                            <img class="tint-gold" src="https://static.vecteezy.com/system/resources/previews/059/664/794/large_2x/red-supercar-side-view-illustration-vector.jpg" width="820" height="290" loading="lazy"
+                                alt="Illustration of a gold sports coupe in side view.">
+                            <figcaption>Illustration: grand tourer</figcaption>
+                        </figure>
+                        <div class="card-body">
+                            <h3>Grand tourers</h3>
+                            <p>Fast, calm and comfortable, built to cross a continent in a day. Aston Martin and Bentley
+                                lead this class.</p>
+                        </div>
+                    </article>
+                    <article class="card">
+                        <figure>
+                            <img class="tint-blue" src="https://static.vecteezy.com/system/resources/previews/059/664/794/large_2x/red-supercar-side-view-illustration-vector.jpg" width="820" height="290" loading="lazy"
+                                alt="Illustration of a blue track-focused sports car in side view.">
+                            <figcaption>Illustration: track special</figcaption>
+                        </figure>
+                        <div class="card-body">
+                            <h3>Track specials</h3>
+                            <p>Road-legal cars tuned for lap times, with big wings and stiff suspension. The Porsche 911
+                                GT3 RS is a classic example.</p>
+                        </div>
+                    </article>
+                    <article class="card">
+                        <figure>
+                            <img class="tint-silver" src="https://static.vecteezy.com/system/resources/previews/059/664/794/large_2x/red-supercar-side-view-illustration-vector.jpg" width="820" height="290" loading="lazy"
+                                alt="Illustration of a silver electric luxury coupe in side view.">
+                            <figcaption>Illustration: electric luxury</figcaption>
+                        </figure>
+                        <div class="card-body">
+                            <h3>Electric luxury</h3>
+                            <p>Silent, instant power with a cabin like a private lounge. The Rolls-Royce Spectre shows
+                                where the top end is heading.</p>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <!-- SPECS TABLE -->
+        <section class="section section-alt" id="specs" aria-labelledby="specs-title">
+            <div class="wrap">
+                <h2 id="specs-title">Performance at a glance</h2>
+                <p class="lead">Six modern icons, side by side. Scroll sideways on small screens.</p>
+                <div class="table-scroll" role="region" aria-label="Performance comparison table" tabindex="0">
+                    <table>
+                        <caption>Headline performance figures (manufacturer claims, rounded)</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col">Car</th>
+                                <th scope="col">Powertrain</th>
+                                <th scope="col">Power (hp)</th>
+                                <th scope="col">0 to 100 km/h</th>
+                                <th scope="col">Top speed</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th scope="row">Ferrari SF90 Stradale</th>
+                                <td>4.0L twin-turbo V8 hybrid</td>
+                                <td class="num">986</td>
+                                <td class="num">2.5 s</td>
+                                <td class="num">340 km/h</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">Lamborghini Revuelto</th>
+                                <td>6.5L V12 hybrid</td>
+                                <td class="num">1,015</td>
+                                <td class="num">2.5 s</td>
+                                <td class="num">350+ km/h</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">Porsche 911 GT3 RS</th>
+                                <td>4.0L flat-six</td>
+                                <td class="num">518</td>
+                                <td class="num">3.2 s</td>
+                                <td class="num">296 km/h</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">McLaren 750S</th>
+                                <td>4.0L twin-turbo V8</td>
+                                <td class="num">740</td>
+                                <td class="num">2.8 s</td>
+                                <td class="num">332 km/h</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">Bugatti Chiron Super Sport</th>
+                                <td>8.0L quad-turbo W16</td>
+                                <td class="num">1,578</td>
+                                <td class="num">2.4 s</td>
+                                <td class="num">440 km/h</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">Rolls-Royce Spectre</th>
+                                <td>Dual-motor electric</td>
+                                <td class="num">577</td>
+                                <td class="num">4.5 s</td>
+                                <td class="num">250 km/h</td>
+                            </tr>
+                        </tbody>
+                        <tfoot>
+                            <tr>
+                                <td colspan="5">Figures vary by market and test conditions. Always confirm with the
+                                    manufacturer.</td>
+                            </tr>
+                        </tfoot>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- FAQ -->
+        <section class="section section-dark" id="faq" aria-labelledby="faq-title">
+            <div class="wrap">
+                <h2 id="faq-title">Questions buyers ask first</h2>
+                <details>
+                    <summary>What is the difference between a supercar and a hypercar?</summary>
+                    <p>A supercar is a very fast, exotic performance car. A hypercar goes further with extreme power,
+                        limited production, top-tier materials and a price that often reaches into the millions.</p>
+                </details>
+                <details>
+                    <summary>Do high-end cars hold their value?</summary>
+                    <p>Some do, especially limited editions with strong brand history. Many others lose value in the
+                        first years, so condition, service history and rarity matter a great deal.</p>
+                </details>
+                <details>
+                    <summary>Are electric high-end cars really fast?</summary>
+                    <p>Yes. Electric motors deliver full torque instantly, so even luxury electric cars can accelerate
+                        faster than many traditional sports cars.</p>
+                </details>
+                <details>
+                    <summary>What does ownership cost beyond the price?</summary>
+                    <p>Expect higher insurance, specialist servicing, premium tyres and storage. Budgeting for these
+                        costs avoids unpleasant surprises.</p>
+                </details>
+            </div>
+        </section>
+
+        <!-- FORM -->
+        <section class="section" id="visit" aria-labelledby="visit-title">
+            <div class="wrap split">
+                <div>
+                    <h2 id="visit-title">Book a private viewing</h2>
+                    <p class="lead">Tell us what you would like to see and we will arrange a quiet, no-pressure
+                        appointment.</p>
+                    <p>This form is a demonstration built with HTML5 validation. It does not send data anywhere.</p>
+                </div>
+                <div class="form-card">
+                    <form action="#visit" method="get">
+                        <fieldset>
+                            <legend>Your details</legend>
+                            <div class="field">
+                                <label for="name">Full name</label>
+                                <input type="text" id="name" name="name" autocomplete="name"
+                                    placeholder="e.g. Aarav Mehta" required>
+                            </div>
+                            <div class="row">
+                                <div class="field">
+                                    <label for="email">Email address</label>
+                                    <input type="email" id="email" name="email" autocomplete="email"
+                                        placeholder="you@example.com" required>
+                                </div>
+                                <div class="field">
+                                    <label for="phone">Phone (optional)</label>
+                                    <input type="tel" id="phone" name="phone" autocomplete="tel"
+                                        placeholder="+91 98765 43210" pattern="[0-9+\s\-]{7,18}"
+                                        title="Use 7 to 18 digits, spaces, plus or hyphen">
+                                </div>
+                            </div>
+                        </fieldset>
+
+                        <fieldset>
+                            <legend>Your visit</legend>
+                            <div class="row">
+                                <div class="field">
+                                    <label for="model">Car you want to see</label>
+                                    <select id="model" name="model" required>
+                                        <option value="" selected disabled>Choose a car</option>
+                                        <optgroup label="Supercars">
+                                            <option>Ferrari SF90 Stradale</option>
+                                            <option>Lamborghini Revuelto</option>
+                                            <option>McLaren 750S</option>
+                                        </optgroup>
+                                        <optgroup label="Track and luxury">
+                                            <option>Porsche 911 GT3 RS</option>
+                                            <option>Bugatti Chiron Super Sport</option>
+                                            <option>Rolls-Royce Spectre</option>
+                                        </optgroup>
+                                    </select>
+                                </div>
+                                <div class="field">
+                                    <label for="date">Preferred date</label>
+                                    <input type="date" id="date" name="date">
+                                </div>
+                            </div>
+                            <div class="field" role="group" aria-labelledby="type-label">
+                                <span class="group-label" id="type-label">Type of visit</span>
+                                <div class="choices">
+                                    <label><input type="radio" name="visit" value="showroom" checked> Showroom</label>
+                                    <label><input type="radio" name="visit" value="test-drive"> Test drive</label>
+                                    <label><input type="radio" name="visit" value="video"> Video call</label>
+                                </div>
+                            </div>
+                            <div class="field">
+                                <label for="message">Anything we should know?</label>
+                                <textarea id="message" name="message" maxlength="400"
+                                    placeholder="Colour preferences, questions, accessibility needs"></textarea>
+                                <p class="hint">Up to 400 characters.</p>
+                            </div>
+                        </fieldset>
+
+                        <label class="consent">
+                            <input type="checkbox" name="consent" required>
+                            <span>I agree to be contacted about this request.</span>
+                        </label>
+
+                        <div class="form-actions">
+                            <button class="btn btn-solid" type="submit">Request viewing</button>
+                            <button class="btn btn-line" type="reset">Clear form</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="site-footer">
+        <div class="wrap">
+            <p>Apex Garage is a student web design project created with HTML5 and CSS. Car names and figures belong to
+                their respective manufacturers and are used for education only.</p>
+            <p><a href="#home">Back to top</a></p>
+        </div>
+    </footer>
+</body>
+
+</html>
